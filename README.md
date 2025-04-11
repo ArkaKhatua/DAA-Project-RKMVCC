@@ -35,3 +35,9 @@ user input. Uses amortize analysis (accounting) to calculate time complexity of 
 ###                                             String Matching
 18. Write C program to implement KMP string matching method to find the pattern string in a text string both given by the 
 user. Compute the complexity of the method for a text string of length N and pattern string of length M, where N>M.
+###                                              Add on project
+19. write a c program to implement BFS.
+20. write a c program to implement DFS.
+21. write a c program to implement fibonacci using dynamic programming.
+22. write a c program to implement prim's algorithm.
+23. write a c program to implement kruskal's algorithm.
